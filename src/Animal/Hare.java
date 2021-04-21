@@ -10,7 +10,7 @@ public class Hare implements Animal{
 	{
 		this.name = name;
 	}
-	
+	//ggd
 	
 	public String getName()
 	{
