@@ -1,5 +1,5 @@
 package Animal;
-
+ 
 public class Hare implements Animal{
 
 	private String name;
